@@ -1,7 +1,7 @@
-package homework1.sample;
+package main.homework1.sample;
 
-import homework1.regular.MathDecorator;
-import homework1.regular.SimpleMath;
+import main.homework1.regular.MathDecorator;
+import main.homework1.regular.SimpleMath;
 
 public class Main {
     public static void main(String[] args) {

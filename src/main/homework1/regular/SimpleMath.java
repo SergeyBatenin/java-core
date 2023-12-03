@@ -1,4 +1,4 @@
-package homework1.regular;
+package main.homework1.regular;
 
 public class SimpleMath {
 
